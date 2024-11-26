@@ -1,5 +1,4 @@
 # Pong Game using Turtle Graphics
-# Pong Game
 
 A classic Pong Game implemented in Python using the `turtle` module. This two-player game lets players control paddles to bounce a ball back and forth while scoring points.
 
